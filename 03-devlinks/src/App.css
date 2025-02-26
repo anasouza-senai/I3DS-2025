@@ -3,7 +3,7 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 :root {
@@ -68,6 +68,9 @@
   }
   .light {
     --bg-url: url(./img/bg-mobile-light.jpg);
+  }
+  .dark{
+    --bg-url: url(./img/bg-mobile-dark.jpg);
   }
 }
 
